@@ -38,7 +38,7 @@ I'm a Computer Science Students at CUNY Queens College
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianRozpedowski&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DamianRozpedowski&theme=gruvbox&border_radius=4.5) -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/DamianRozpedowski?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DamianRozpedowski?ext=heatmap)
 
 #
 
