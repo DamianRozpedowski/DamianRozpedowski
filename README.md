@@ -27,10 +27,8 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 <img align="left" alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <br>
-
-
-
-#
+<br>
+<br>
 
 ### 📊 Stats
 
