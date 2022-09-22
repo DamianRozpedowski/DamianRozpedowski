@@ -13,7 +13,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 ---
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 <div>
 <img align="left" alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -32,7 +32,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 #
 
-## 📊 Stats
+### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianRozpedowski&show_icons=true&title_color=D8534F&text_color=FFFFFF&icon_color=D8534F&bg_color=101010&border_color=404040&card_width=500  )
 
@@ -40,7 +40,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 #
 
-## 👨‍💻Coding Journey
+### 👨‍💻Coding Journey
    - I started my Coding Journey in High School. I was apart of the **Web Design CTE academy** that was offered in my school and have gained skills in HTML, CSS, and JavaScript. This was the first time I've been introduced to programming and since then I've grown immeasurably.
    - I decided to persue a career in Software Engineering and have been completing my **Bachelor of Science, Computer Science Degree** at **Queens College**. So far I've gained skills in C++, Java, and Assembly, and have learned many concept in Computer Science including Object-Oriented Programming, Algorithms, Architecture & Organization, and Discrete Structures.
    - I've been apart of the **IOS Development** course at CodePath as well as the **Software Engineering** course where I've gained skills in Swift/Mobile Development as well as Python and Interview Preperation.
