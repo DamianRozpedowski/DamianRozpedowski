@@ -31,7 +31,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianRozpedowski&show_icons=true&title_color=A22121&text_color=FF3737&icon_color=A22121&bg_color=101010  )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianRozpedowski&show_icons=true&title_color=D8534F&text_color=D8534F&icon_color=D8534F&bg_color=101010  )
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DamianRozpedowski?theme=dark )
 
