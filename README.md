@@ -1,8 +1,8 @@
 # 🏄‍Damian Rozpedowski
 
-**`Computer Science Student at Queens College (CodePath IOS & SWE /EverUp Micro-Credentials SWE)`**
+**`Computer Science Student at Queens College (CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
 
-I'm a Computer Science Students at CUNY Queens College
+I'm a Computer Science Students at CUNY Queens College. I've been a part of the CodePath IOS Development and Software Engineering course as well as the EverUp Micro-Credentials course in Software Engineering. 
 
    <p align="left">
       <a href="https://www.linkedin.com/in/damianroz/)">
