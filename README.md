@@ -43,6 +43,6 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
    - I've also been apart of the EverUp Micro-Credential for Software Engineering where I've gained/improved my skills in HTML, CSS, JavaScript, JQuery, SQL, and Python.
    - Recently I've started learning LeetCode and have been looking for any opportunities I can take.
    
-
+### Links
 [LinkedIn]: https://www.linkedin.com/in/damianroz/
 [Website]: https://my-final-portfolio-damianrozped.qcc2022edlc2w4.repl.co/
