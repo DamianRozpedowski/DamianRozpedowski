@@ -34,7 +34,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DamianRozpedowski&theme=gruvbox&border_radius=4.5) -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DamianRozpedowski?theme=dark )
 
-#
+
 ###
  <h3>👨‍💻Coding Journey</h3>
    - I started my Coding Journey in High School. I was apart of the Web Design CTE academy that was offered in my school and have gained skills in HTML, CSS, and JavaScript. This was the first time I've been introduced to programming and since then I've grown immeasurably.
