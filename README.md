@@ -27,8 +27,8 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 </div>
 
 <br>
-<br>
-<br>
+
+
 
 #
 
