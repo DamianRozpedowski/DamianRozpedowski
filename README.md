@@ -1,6 +1,6 @@
 # 🏄‍Damian Rozpedowski
 
-**`Computer Science Student at Queens College (CodePath IOS/SWE/EverUp Micro-Credentials SWE)`**
+**`Computer Science Student at Queens College (CodePath IOS & SWE /EverUp Micro-Credentials SWE)`**
 
 I'm a Computer Science Students at CUNY Queens College
 
