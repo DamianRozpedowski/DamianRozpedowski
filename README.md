@@ -36,7 +36,6 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 #
 
-<details>
  <h3>👨‍💻Coding Journey</h3>
    - I started my Coding Journey in High School. I was apart of the Web Design CTE academy that was offered in my school and have gained skills in HTML, CSS, and JavaScript. This was the first time I've been introduced to programming and since then I've grown immeasurably.
    - I decided to persue a career in Software Engineering and have been completing my Bachelors of Science Degree at Queens College. So far I've gained skills in C++, Java, and Assembly, and have learned many concept in Computer Science including Object-Oriented Programming, Algorithms, Architecture & Organization, and Discrete Structures.
