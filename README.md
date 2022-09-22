@@ -34,6 +34,7 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DamianRozpedowski&theme=gruvbox&border_radius=4.5) -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DamianRozpedowski?theme=dark )
 
+#
 
 ###
  <h3>👨‍💻Coding Journey</h3>
