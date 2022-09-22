@@ -1,4 +1,4 @@
-# 🎸Damian Rozpedowski
+# 🛫Damian Rozpedowski
 
 **`CS Student at Queens College (CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
 
