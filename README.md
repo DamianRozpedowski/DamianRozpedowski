@@ -1,8 +1,8 @@
 # Damian Rozpedowski
 
-**`CS Student at Queens College (CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
+**`CS Graduate (SWE Intern at Unadat / CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
 
-I'm a Computer Science Students at CUNY Queens College. I've been a part of the CodePath IOS Development and Software Engineering course as well as the EverUp Micro-Credentials course in Software Engineering. 
+I'm a Computer Science Graduate from CUNY Queens College. I've interned as a Software Engineer at Unadat. I've been a part of the CodePath IOS Development and Software Engineering course as well as the EverUp Micro-Credentials course in Software Engineering. 
 
    <p align="left">
       <a href="https://www.linkedin.com/in/damianroz/)">
@@ -38,11 +38,13 @@ I'm a Computer Science Students at CUNY Queens College. I've been a part of the 
 
 ### 👨‍💻Coding Journey
    - I started my Coding Journey in High School. I was apart of the **Web Design CTE academy** that was offered in my school and have gained skills in HTML, CSS, and JavaScript. This was the first time I've been introduced to programming and since then I've grown immeasurably.
-   - I decided to persue a career in Software Engineering and have been completing my **Bachelor of Science, Computer Science Degree** at **Queens College**. So far I've gained skills in C++, Java, and Assembly, and have learned many concept in Computer Science including Object-Oriented Programming, Algorithms, Architecture & Organization, and Discrete Structures.
+   - I decided to persue a career in Software Engineering and have completed my **Bachelor of Science, Computer Science Degree** at **Queens College**. So far I've gained skills in C++, Java, JavaScript, and Python, and have learned many concept in Computer Science including Artificial Intelligence, Distributed Systems, Software Engineering, Databases, Data Structures, Object-Oriented Programming, Algorithms, Architecture & Organization.
+   - I was a **Software Engineering Intern** at **Unadat** working on full-stack development, gaining skills in PHP, HTML/CSS, JavaScript, SQL, and Google Cloud Technologies.
    - I've been apart of the **IOS Development** course at CodePath as well as the **Software Engineering** course where I've gained skills in Swift/Mobile Development as well as Python and Interview Preperation.
    - I've also been apart of the **EverUp Micro-Credential** for **Software Engineering** where I've gained/improved my skills in HTML, CSS, JavaScript, JQuery, SQL, and Python.
-   - Recently I've started learning LeetCode and have been looking for any opportunities I can take.
+   - Certified Google Data Analytics Professional, learning Data Analytics and its tools, SQL, R, Excel, Tablaeu.
+
    
 ## Links
  - LinkedIn: https://www.linkedin.com/in/damianroz/
- - Website: https://my-final-portfolio-damianrozped.qcc2022edlc2w4.repl.co/
+ - Website: https://damianrozpedowski.github.io/portfolio/
