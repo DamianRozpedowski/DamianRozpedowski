@@ -1,6 +1,6 @@
 # Damian Rozpedowski
 
-**`CS Graduate (SWE Intern at Unadat / CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
+**`CS Graduate (Prior SWE Intern at Unadat / CodePath IOS & SWE / EverUp Micro-Credentials SWE)`**
 
 I'm a Computer Science Graduate from CUNY Queens College. I've interned as a Software Engineer at Unadat. I've been a part of the CodePath IOS Development and Software Engineering course as well as the EverUp Micro-Credentials course in Software Engineering. 
 
